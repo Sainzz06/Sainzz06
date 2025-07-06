@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="mailto:adriansainzbolivar@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail,github,instagram" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 	<a href="https://github.com/Sainzz06">
     <img src="https://skillicons.dev/icons?i=github" />
