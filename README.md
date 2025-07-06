@@ -29,10 +29,10 @@
   <a href="mailto:adriansainzbolivar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-	<a href="https://github.com/Sainzz06">
+  <a href="https://github.com/Sainzz06">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-	<a href="https://www.instagram.com/saincito_06?igsh=MWh3NXBiMXd4YzBueA==">
+  <a href="https://www.instagram.com/saincito_06?igsh=MWh3NXBiMXd4YzBueA==">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
