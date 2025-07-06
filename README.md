@@ -10,7 +10,7 @@
 	
 ## <picture aling = center><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hyZTIzYmxpc2RyNjUwdDNxeWlpaW5jcTYxb3o5dnJuOWduYWF6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)" width = 250px></picture>
+<picture> <img align="right" src="(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hyZTIzYmxpc2RyNjUwdDNxeWlpaW5jcTYxb3o5dnJuOWduYWF6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)" width = 250px></picture>
 
 <br><br>
 - Always `learning new things`.
