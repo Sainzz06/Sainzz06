@@ -24,11 +24,7 @@
 
 
 ## <picture> <img src=":mailbox_closed:" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:adriansainzbolivar@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Sainzz06"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
+
 <p align="center">
   <a href="mailto:adriansainzbolivar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail,github,instagram" />
