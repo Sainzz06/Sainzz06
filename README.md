@@ -23,7 +23,7 @@
 
 
 
-## <picture> <img src=":mailbox_closed:" width="100px"> </picture> Connect with me
+## <picture> <img src=":mailbox_closed:" width="100px"> </picture>📪 Connect with me
 
 <p align="center">
   <a href="mailto:adriansainzbolivar@gmail.com">
