@@ -30,8 +30,14 @@
 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="mailto:adriansainzbolivar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail,github,instagram" />
+  </a>
+	<a href="https://github.com/Sainzz06">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+	<a href="https://www.instagram.com/saincito_06?igsh=MWh3NXBiMXd4YzBueA==">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
