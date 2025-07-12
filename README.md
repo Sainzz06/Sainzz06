@@ -14,7 +14,7 @@
 
 <br><br>
 - Always `learning new things`.
-- :student: I'm `studing Networks & Systems Administration`.
+- :student: I'm studing `Networks & Systems Administration`.
 - :technologist: I like to `automate` all tasks.
 - :computer: I,m learning `programation`.
 
